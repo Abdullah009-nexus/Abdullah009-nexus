@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:173B5E,100:38BDF8&height=190&section=header&text=Abdullah%20Shoaib&fontSize=54&fontColor=F8FAFC&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%26%20Automation%20%7C%20Full-Stack%20Development&descSize=16&descAlignY=60&descColor=BAE6FD&animation=fadeIn" alt="Abdullah Shoaib — Software Engineer" />
+<h1 align="center">Abdullah Shoaib</h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=800&lines=Building+practical+AI-powered+software;Full-stack+development+%7C+AI+%7C+Automation;Learning%2C+building%2C+and+shipping+reliable+systems)](https://github.com/Abdullah009-nexus)
 
