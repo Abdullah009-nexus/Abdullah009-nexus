@@ -55,13 +55,13 @@ Agentic AI and production-ready LLM applications · LangChain and LangGraph · M
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Abdullah009-nexus&show_icons=true&hide_border=true&bg_color=0B1020&title_color=38BDF8&text_color=CBD5E1&icon_color=38BDF8" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=Abdullah009-nexus&show_icons=true&hide_border=true&bg_color=0B1020&title_color=38BDF8&text_color=CBD5E1&icon_color=38BDF8" alt="GitHub statistics" />
 &nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah009-nexus&layout=compact&hide_border=true&bg_color=0B1020&title_color=38BDF8&text_color=CBD5E1" alt="Most used languages" />
+<img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Abdullah009-nexus&layout=compact&hide_border=true&bg_color=0B1020&title_color=38BDF8&text_color=CBD5E1" alt="Most used languages" />
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abdullah009-nexus&bg_color=0B1020&color=CBD5E1&line=38BDF8&point=7DD3FC&area=true&hide_border=true" alt="GitHub contribution activity" />
+<img width="95%" src="https://github-readme-activity-graph-rho-bice.vercel.app/graph?username=Abdullah009-nexus&bg_color=0B1020&color=CBD5E1&line=38BDF8&point=7DD3FC&area=true&hide_border=true" alt="GitHub contribution activity" />
 
 </div>
 
