@@ -11,7 +11,9 @@
 
 </div>
 
----
+<img src="assets/terminal.svg" alt="Terminal card" width="100%" />
+
+<img src="assets/divider.svg" alt="" width="100%" />
 
 ## About Me
 
@@ -24,17 +26,22 @@ I’m a **Computer Science student at FAST-NUCES Islamabad** focused on becoming
 
 ## Technologies
 
+<img src="assets/skills-marquee.svg" alt="Skills marquee" width="100%" />
+
 **Languages**  
-<img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,html,css&theme=dark" alt="Python, JavaScript, TypeScript, Java, C++, HTML, and CSS" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,c,html,css,sass,bash&theme=dark" alt="Python, JavaScript, TypeScript, Java, C++, HTML, and CSS" />
 
 **Frontend**  
-<img src="https://skillicons.dev/icons?i=angular,react,nextjs,tailwind&theme=dark" alt="Angular, React, Next.js, and Tailwind CSS" />
+<img src="https://skillicons.dev/icons?i=angular,react,nextjs,tailwind,bootstrap,rxjs,vite,figma&theme=dark" alt="Angular, React, Next.js, and Tailwind CSS" />
 
 **Backend & Databases**  
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mongodb,mysql,supabase&theme=dark" alt="Node.js, Express, FastAPI, PostgreSQL, MongoDB, MySQL, and Supabase" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,flask,postgres,mongodb,mysql,redis,supabase,firebase,graphql&theme=dark" alt="Node.js, Express, FastAPI, PostgreSQL, MongoDB, MySQL, and Supabase" />
 
 **Cloud & Developer Tools**  
-<img src="https://skillicons.dev/icons?i=docker,githubactions,git,linux,aws,gcp,kubernetes&theme=dark" alt="Docker, GitHub Actions, Git, Linux, AWS, Google Cloud, and Kubernetes" />
+<img src="https://skillicons.dev/icons?i=docker,githubactions,git,github,linux,aws,gcp,kubernetes,nginx,vercel,postman,vscode&theme=dark" alt="Docker, GitHub Actions, Git, Linux, AWS, Google Cloud, and Kubernetes" />
+
+**Data & ML**  
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,pandas,numpy,jupyter&theme=dark" alt="PyTorch, TensorFlow, scikit-learn, pandas, NumPy, Jupyter" />
 
 **AI, Automation & MLOps**  
 ![LLMs](https://img.shields.io/badge/LLMs%20%26%20Generative%20AI-173B5E?style=flat-square)
@@ -45,60 +52,19 @@ I’m a **Computer Science student at FAST-NUCES Islamabad** focused on becoming
 ![MCP](https://img.shields.io/badge/MCP-173B5E?style=flat-square)
 ![MLOps](https://img.shields.io/badge/DVC%20%7C%20MLflow%20%7C%20Airflow-173B5E?style=flat-square)
 
+<img src="assets/divider.svg" alt="" width="100%" />
+
 ## Software Engineering Experience
 
 Contributed to an **Angular SaaS application**, building reusable shared UI components and improving member and user management interfaces. Worked on responsive UI, integrated existing backend APIs, and collaborated through team Git workflows and pull requests.
+
+<img src="assets/divider.svg" alt="" width="100%" />
 
 ## Currently Exploring
 
 Agentic AI and production-ready LLM applications · LangChain and LangGraph · MCP integrations · Advanced n8n workflows · RAG and document intelligence · Docker, CI/CD, cloud deployment, and DevSecOps
 
-## Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Abdullah009-nexus/gigbid-freelancer-copilot">gigbid-freelancer-copilot</a></h3>
-      Local-first freelancer copilot for job discovery and evidence-conscious proposal drafts.<br/><br/>
-      <img src="https://img.shields.io/badge/Python-173B5E?style=flat-square&logo=python&logoColor=white" alt="Python" />
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Abdullah009-nexus/devops-repo-auditing">devops-repo-auditing</a></h3>
-      AI agent for DevOps repository auditing.<br/><br/>
-      <img src="https://img.shields.io/badge/Python-173B5E?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/AI%20Agents-173B5E?style=flat-square" alt="AI Agents" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Abdullah009-nexus/student-ml-api">student-ml-api</a></h3>
-      Professional CI workflow with pull requests, Docker, and GHCR publishing.<br/><br/>
-      <img src="https://img.shields.io/badge/Python-173B5E?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/Docker-173B5E?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-      <img src="https://img.shields.io/badge/GitHub%20Actions-173B5E?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Abdullah009-nexus/MLOps-Tutorial">MLOps-Tutorial</a></h3>
-      Continuous Delivery (CD) for an ML application.<br/><br/>
-      <img src="https://img.shields.io/badge/Python-173B5E?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/MLOps-173B5E?style=flat-square" alt="MLOps" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Abdullah009-nexus/student-management-system-angular">student-management-system-angular</a></h3>
-      Responsive student management system with full CRUD and component-based architecture.<br/><br/>
-      <img src="https://img.shields.io/badge/Angular-173B5E?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
-      <img src="https://img.shields.io/badge/TypeScript-173B5E?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Abdullah009-nexus/salon-booking-website">salon-booking-website</a></h3>
-      Modern salon website with booking system, WhatsApp integration, and premium UI.<br/><br/>
-      <img src="https://img.shields.io/badge/Next.js-173B5E?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-      <img src="https://img.shields.io/badge/Tailwind%20CSS-173B5E?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-    </td>
-  </tr>
-</table>
+<img src="assets/divider.svg" alt="" width="100%" />
 
 ## GitHub Activity
 

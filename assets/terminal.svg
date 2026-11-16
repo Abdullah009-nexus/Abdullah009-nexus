@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="270" viewBox="0 0 1000 270" role="img" aria-label="Terminal: whoami, focus and status">
+<defs><style>
+.m{font:500 17px 'SF Mono',Menlo,Consolas,'Courier New',monospace;animation:type .9s steps(34,end) forwards}
+@keyframes type{to{clip-path:inset(0 0 0 0)}}
+.cur{animation:blink 1s steps(1) infinite}@keyframes blink{50%{opacity:0}}
+</style></defs>
+<rect x="2" y="2" width="996" height="266" rx="14" fill="#0B1020" stroke="#173B5E" stroke-width="2"/>
+<path d="M2 16a14 14 0 0 1 14-14h968a14 14 0 0 1 14 14v26H2z" fill="#122240"/>
+<circle cx="28" cy="22" r="6" fill="#F87171"/><circle cx="50" cy="22" r="6" fill="#FBBF24"/><circle cx="72" cy="22" r="6" fill="#4ADE80"/>
+<text x="500" y="27" text-anchor="middle" fill="#94A3B8" style="font:500 13px 'SF Mono',Menlo,monospace">abdullah@nexus: ~</text>
+<text x="28" y="78" fill="#7DD3FC" class="m" style="animation-delay:0.6s;clip-path:inset(0 100% 0 0)">$ whoami</text><text x="28" y="108" fill="#E2E8F0" class="m" style="animation-delay:1.7000000000000002s;clip-path:inset(0 100% 0 0)">abdullah-shoaib  # software engineer, FAST-NUCES</text><text x="28" y="138" fill="#7DD3FC" class="m" style="animation-delay:2.8000000000000003s;clip-path:inset(0 100% 0 0)">$ cat focus.txt</text><text x="28" y="168" fill="#E2E8F0" class="m" style="animation-delay:3.9000000000000004s;clip-path:inset(0 100% 0 0)">AI agents · LLM apps · full-stack · automation</text><text x="28" y="198" fill="#7DD3FC" class="m" style="animation-delay:5.0s;clip-path:inset(0 100% 0 0)">$ ./status --now</text><text x="28" y="228" fill="#4ADE80" class="m" style="animation-delay:6.1s;clip-path:inset(0 100% 0 0)">learning, building and shipping reliable systems</text>
+<text x="28" y="258" fill="#7DD3FC" class="m" style="animation-delay:7.2s;clip-path:inset(0 100% 0 0)">$</text><rect class="cur" x="48" y="241" width="10" height="20" fill="#38BDF8"/>
+</svg>
