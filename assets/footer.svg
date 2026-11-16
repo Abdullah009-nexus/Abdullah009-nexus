@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="90" viewBox="0 0 1000 90" role="img" aria-label="">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#38BDF8" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#0B1020"/>
+    </linearGradient>
+    <style>
+      .a{animation:d 14s linear infinite}.b{animation:d 22s linear infinite reverse}
+      @keyframes d{from{transform:translateX(0)}to{transform:translateX(-500px)}}
+    </style>
+  </defs>
+  <rect width="1000" height="90" fill="#0B1020"/>
+  <g class="b"><path d="M0 40 Q125 15 250 40 T500 40 T750 40 T1000 40 T1250 40 T1500 40 V90 H0 Z" fill="#173B5E" fill-opacity="0.8"/></g>
+  <g class="a"><path d="M0 55 Q125 30 250 55 T500 55 T750 55 T1000 55 T1250 55 T1500 55 V90 H0 Z" fill="url(#g)"/></g>
+</svg>

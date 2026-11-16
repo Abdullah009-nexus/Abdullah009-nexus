@@ -1,11 +1,13 @@
 <div align="center">
 
-<h1 align="center">Abdullah Shoaib</h1>
+<img src="assets/header.svg" alt="Abdullah Shoaib - Software Engineer" width="100%" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=800&lines=Building+practical+AI-powered+software;Full-stack+development+%7C+AI+%7C+Automation;Learning%2C+building%2C+and+shipping+reliable+systems)](https://github.com/Abdullah009-nexus)
 
 [![GitHub followers](https://img.shields.io/github/followers/Abdullah009-nexus?style=flat-square&logo=github&label=Followers&color=173B5E)](https://github.com/Abdullah009-nexus)
 [![Profile views](https://komarev.com/ghpvc/?username=Abdullah009-nexus&style=flat-square&color=173B5E&label=Profile+views)](https://github.com/Abdullah009-nexus)
+![Location](https://img.shields.io/badge/Islamabad-Pakistan-173B5E?style=flat-square&logo=googlemaps&logoColor=white)
+![Status](https://img.shields.io/badge/Open%20to-Opportunities-22C55E?style=flat-square)
 
 </div>
 
@@ -51,6 +53,53 @@ Contributed to an **Angular SaaS application**, building reusable shared UI comp
 
 Agentic AI and production-ready LLM applications · LangChain and LangGraph · MCP integrations · Advanced n8n workflows · RAG and document intelligence · Docker, CI/CD, cloud deployment, and DevSecOps
 
+## Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Abdullah009-nexus/gigbid-freelancer-copilot">gigbid-freelancer-copilot</a></h3>
+      Local-first freelancer copilot for job discovery and evidence-conscious proposal drafts.<br/><br/>
+      <img src="https://img.shields.io/badge/Python-173B5E?style=flat-square&logo=python&logoColor=white" alt="Python" />
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Abdullah009-nexus/devops-repo-auditing">devops-repo-auditing</a></h3>
+      AI agent for DevOps repository auditing.<br/><br/>
+      <img src="https://img.shields.io/badge/Python-173B5E?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/AI%20Agents-173B5E?style=flat-square" alt="AI Agents" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Abdullah009-nexus/student-ml-api">student-ml-api</a></h3>
+      Professional CI workflow with pull requests, Docker, and GHCR publishing.<br/><br/>
+      <img src="https://img.shields.io/badge/Python-173B5E?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/Docker-173B5E?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/GitHub%20Actions-173B5E?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Abdullah009-nexus/MLOps-Tutorial">MLOps-Tutorial</a></h3>
+      Continuous Delivery (CD) for an ML application.<br/><br/>
+      <img src="https://img.shields.io/badge/Python-173B5E?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/MLOps-173B5E?style=flat-square" alt="MLOps" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Abdullah009-nexus/student-management-system-angular">student-management-system-angular</a></h3>
+      Responsive student management system with full CRUD and component-based architecture.<br/><br/>
+      <img src="https://img.shields.io/badge/Angular-173B5E?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
+      <img src="https://img.shields.io/badge/TypeScript-173B5E?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Abdullah009-nexus/salon-booking-website">salon-booking-website</a></h3>
+      Modern salon website with booking system, WhatsApp integration, and premium UI.<br/><br/>
+      <img src="https://img.shields.io/badge/Next.js-173B5E?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+      <img src="https://img.shields.io/badge/Tailwind%20CSS-173B5E?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+    </td>
+  </tr>
+</table>
+
 ## GitHub Activity
 
 <div align="center">
@@ -65,8 +114,4 @@ Agentic AI and production-ready LLM applications · LangChain and LangGraph · M
 
 </div>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:173B5E,100:0B1020&height=100&section=footer" alt="" />
-
-</div>
+<img src="assets/footer.svg" alt="" width="100%" />
